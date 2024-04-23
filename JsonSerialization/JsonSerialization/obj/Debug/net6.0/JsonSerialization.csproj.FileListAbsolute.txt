@@ -1,0 +1,14 @@
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.AssemblyInfo.cs
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\bin\Debug\net6.0\JsonSerialization.exe
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\bin\Debug\net6.0\JsonSerialization.deps.json
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\bin\Debug\net6.0\JsonSerialization.runtimeconfig.json
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\bin\Debug\net6.0\JsonSerialization.dll
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\bin\Debug\net6.0\JsonSerialization.pdb
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.dll
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\refint\JsonSerialization.dll
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.pdb
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\JsonSerialization.genruntimeconfig.cache
+C:\Users\Asime\Desktop\Serialization\JsonSerialization\JsonSerialization\obj\Debug\net6.0\ref\JsonSerialization.dll
